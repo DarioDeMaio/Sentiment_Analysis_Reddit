@@ -25,8 +25,8 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 Per eseguire correttamente il progetto sul proprio sistema, seguire i seguenti passaggi:
 
 1) Assicurarsi di avere installato Python versione 3.x sul proprio sistema.
-2) Clonare il repository utilizzando il comando: 'git clone https://github.com/DarioDeMaio/SentimentAnalysis'
-3) Installare le librerie necessarie eseguendo il seguente comando nella console: 'pip install -r requirements.txt'
+2) Clonare il repository utilizzando il comando: `git clone https://github.com/DarioDeMaio/SentimentAnalysis` 
+3) Installare le librerie necessarie eseguendo il seguente comando nella console: `pip install -r requirements.txt` 
 
 ## License
 
