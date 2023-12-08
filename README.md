@@ -1,4 +1,4 @@
-# Progetto di Sentiment Analysis su Reddit: Caso Giulia Cecchettin
+# Progetto di Sentiment Analysis su Reddit
 
 ## Introduzione
 Questo repository ospita un progetto di analisi del sentimento su Reddit, focalizzato sul caso di Giulia Cecchettin.  L'obiettivo principale è la comprensione dei sentimenti e delle emozioni espressi dagli utenti nei commenti. Attraverso un'analisi approfondita del linguaggio naturale, miriamo a estrarre insights significativi riguardo alla percezione e all'opinione della community online riguardo a questa vicenda.
