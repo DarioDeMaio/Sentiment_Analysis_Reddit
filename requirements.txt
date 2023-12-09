@@ -1,1 +1,4 @@
 praw
+feel-it
+nltk
+matplotlib
