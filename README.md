@@ -30,4 +30,4 @@ Per eseguire correttamente il progetto sul proprio sistema, seguire i seguenti p
 
 ## License
 
-Questo progetto è concesso in licenza con la licenza MIT. Per ulteriori informazioni, fare riferimento al file 'LICENSE'.
+Questo progetto è concesso in licenza con la licenza MIT. Per ulteriori informazioni, fare riferimento al file `LICENSE`.
